@@ -1,0 +1,11 @@
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe.config
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.pdb
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Form1.resources
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Properties.Resources.resources
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.GenerateResource.cache
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.exe
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.pdb
+C:\Users\90531\Desktop\Üniversite\Projeler\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Form2.resources
